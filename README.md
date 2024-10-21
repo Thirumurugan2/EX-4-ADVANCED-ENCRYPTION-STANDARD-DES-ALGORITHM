@@ -79,7 +79,8 @@ int main() {
 
 
 OUTPUT:
-(https://github.com/user-attachments/assets/e7b43230-5c5d-4529-bf54-2055e054b552)
+![WhatsApp Image 2024-10-21 at 08 40 33_560eb958](https://github.com/user-attachments/assets/8f26951d-b8d5-4631-998b-881d2dc1cefe)
+
 
  
 RESULT:
